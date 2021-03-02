@@ -10,8 +10,8 @@ let mainList = {
 }
 
 mainList.shopGods[0] = prompt('Какой тип товаров будем продавать?');
-mainList.shopGods[0] = prompt('Какой тип товаров будем продавать?');
-mainList.shopGods[0] = prompt('Какой тип товаров будем продавать?');
+mainList.shopGods[1] = prompt('Какой тип товаров будем продавать?');
+mainList.shopGods[2] = prompt('Какой тип товаров будем продавать?');
 
 alert(mainList.budget / 30);
 console.log(mainList);
